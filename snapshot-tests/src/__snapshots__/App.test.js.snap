@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div>
+  <div
+    className="container"
+  >
+    <div
+      className="card"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="col"
+        >
+          <h1>
+            CKline22
+          </h1>
+        </div>
+      </div>
+      <div
+        className="row"
+      >
+        <div
+          className="col"
+        >
+          <img
+            alt="puppy picture"
+            src="https://place-puppy.com/300x300"
+          />
+        </div>
+      </div>
+      <div
+        className="row"
+      >
+        <div
+          className="col"
+        >
+          <p>
+            I like spending time outside. I also like lorem ipsum
+          </p>
+          <p>
+            Sit sunt amet voluptate magna. Nulla minim velit ex ullamco adipisicing nulla. Incididunt nostrud culpa officia laboris esse nulla non pariatur sint amet ad.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
